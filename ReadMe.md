@@ -35,3 +35,4 @@
 * Google -> google Colab -> Login Wit google Colab
 
 ## Step 7: create File Wit AWS SageMaker
+https://th.bing.com/th/id/R.416fbf016b1b05955c01dbed7d026a3a?rik=9nc5uidFS56fZg&pid=ImgRaw&r=0
